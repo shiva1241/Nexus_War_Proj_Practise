@@ -34,7 +34,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://nexusserver.com:8081/repository/Nexus_Pro_Snap/</url>
+            <url>http://nexusserver.com:8081/repository/Nexus_Pro_SnapShot/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
